@@ -1,0 +1,44 @@
+{
+  "title": "Minimal Cozy Room",
+  "subtitle": "Everything from this Pinterest room is linked below.",
+  "disclosure": "As an Amazon Associate, I earn from qualifying purchases.",
+  "heroImage": "minimal-cozy-room/hero.jpg",
+  "products": [
+    {
+      "name": "Floating TV Stand",
+      "price": "View price on Amazon",
+      "image": "minimal-cozy-room/1.svg",
+      "link": "https://www.amazon.com/Atelier-Floating-Entertainment-Console-Mounted/dp/B0D2PR4BF7?th=1&linkCode=sl2&tag=cozydecorf013-20&linkId=7da227be39d392423f747d4131491f63&language=en_US&ref_=as_li_ss_tl&utm_source=Pinterest&utm_medium=organic"
+    },
+    {
+      "name": "TV Stand Alternative",
+      "price": "View price on Amazon",
+      "image": "minimal-cozy-room/2.svg",
+      "link": "https://www.amazon.com/Atelier-Floating-Entertainment-Console-Mounted/dp/B0D2PR4BF7?th=1&linkCode=sl2&tag=cozydecorf013-20&linkId=7da227be39d392423f747d4131491f63&language=en_US&ref_=as_li_ss_tl&utm_source=Pinterest&utm_medium=organic"
+    },
+    {
+      "name": "Brown Floor Lamp",
+      "price": "View price on Amazon",
+      "image": "minimal-cozy-room/3.svg",
+      "link": "https://www.amazon.com/JUNNAI-Adjustable-Standing-Temperatures-Included-Brown/dp/B0D3TYS7GD?th=1&linkCode=sl2&tag=cozydecorf013-20&linkId=1c02b41958e0ec862021192af532bcd7&language=en_US&ref_=as_li_ss_tl&utm_source=Pinterest&utm_medium=organic"
+    },
+    {
+      "name": "Modern Area Rug",
+      "price": "View price on Amazon",
+      "image": "minimal-cozy-room/4.svg",
+      "link": "https://www.amazon.com/Unique-Loom-Collection-Modern-Rectangle/dp/B01DN3ZUSM?th=1&linkCode=sl2&tag=cozydecorf013-20&linkId=5007085f3d606d3432b64c820d43b139&language=en_US&ref_=as_li_ss_tl"
+    },
+    {
+      "name": "Wood Wall Panels",
+      "price": "View price on Amazon",
+      "image": "minimal-cozy-room/5.svg",
+      "link": "https://www.amazon.com/Art3d-Paneling-Interior-Ceiling-Decoration/dp/B0CP9J8KY6?th=1&linkCode=sl2&tag=cozydecorf013-20&linkId=a2aca10734c0f7522b99a5e4c1747836&language=en_US&ref_=as_li_ss_tl"
+    },
+    {
+      "name": "Add Sixth Product",
+      "price": "Add price",
+      "image": "minimal-cozy-room/6.svg",
+      "link": "#"
+    }
+  ]
+}
